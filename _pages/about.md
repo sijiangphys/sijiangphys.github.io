@@ -14,7 +14,7 @@ My research focuses on non-equilibrium quantum dynamics and quantum simulations.
 
 # Publications and Preprints
 {% for post in site.publications reversed %}
-    <p> [{{post.title}}]({post.link}}) </p>
-    <p> {{ post.authors }} </p>
-    <p> {{ post.excerpt }} </p>
+    [{{post.title}}]({{post.link}})
+    {{ post.authors }}
+    {{ post.excerpt }} 
 {% endfor %}
