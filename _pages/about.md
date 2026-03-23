@@ -13,8 +13,7 @@ I am a third-year Ph.D. student at [Center for Quantum Information, IIIS](https:
 My research focuses on non-equilibrium quantum dynamics and quantum simulations. A major theme of my work involves investigating ergodicity-breaking mechanisms, like prethermalization and dynamical freezing, and finding out their potential applications in quantum information science, particularly for quantum memory and sensing. I am also interested in quantum error corrections, from the perspective of non-equilibrium processes and phases of matter. 
 
 # Publications and Preprints
-{% for post in site.publications reversed %}
-    [{{post.title}}]({{post.link}})
-    {{ post.authors }}
-    {{ post.excerpt }} 
-{% endfor %}
+[Experimental demonstration of adversarial examples in learning topological phases](https://www.nature.com/articles/s41467-022-32611-7)
+Huili Zhang*, __Si Jiang*__, Xin Wang, Wengang Zhang, Xianzhi Huang, Xiaolong Ouyang, Yefei Yu, Yanqing Liu, Dong-Ling Deng, L-M Duan
+Nature Communications 13 (1), 1-8
+
