@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : false # blank (default) uses feed.xml
+# atom_feed:
+#   path                   : false # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -84,7 +84,7 @@ author:
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=KUhfL7cAAAAJ&hl=en"
-  email            : "js23 [at] mails [dot] tsinghua [dot] edu [dot] cn"
+  email            : "js23 [at] mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
