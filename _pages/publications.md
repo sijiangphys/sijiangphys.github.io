@@ -18,10 +18,10 @@ Nature 645, 626-632 (2025)
 
 [Dynamical Freezing and Enhanced Magnetometry in an Interacting Spin Ensemble](https://arxiv.org/abs/2507.22982)\
 Ya-Nan Lu\*, Dong Yuan\*, Yixuan Ma, Yan-Qing Liu, __Si Jiang__, Xiang-Qian Meng, Yi-Jie Xu, Xiu-Ying Chang, Chong Zu, Hong-Zheng Zhao, Dong-Ling Deng $^\dagger$, Lu-Ming Duan $^\dagger$, Pan-Yu Hou $^\dagger$\
-arXiv: 2507.22982
+arXiv: 2507.22982 (2025)
 
 [Long-lived Topological Time-crystalline Order on a Quantum Processor](https://www.nature.com/articles/s41467-024-53077-9)\
-Liang Xiang\*, Wenjie Jiang\*, Zehang Bao\*, Zixuan Song, Shibo Xu, Ke Wang, Jiachen Chen, Feitong Jin, Xuhao Zhu, Zitian Zhu, Fanhao Shen, Ning Wang, Chuanyu Zhang, Yaozu Wu, Yiren Zou, Jiarun Zhong, Zhengyi Cui, Aosai Zhang, Ziqi Tan, Tingting Li, Yu Gao, Jinfeng Deng, Xu Zhang, Hang Dong, Pengfei Zhang, Si Jiang, Weikang Li, Zhide Lu, Zheng-Zhi Sun, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo $^\dagger$, Fangli Liu, Zhe-Xuan Gong, Alexey V Gorshkov, Norman Y Yao, Thomas Iadecola, Francisco Machado, H Wang $^\dagger$, Dong-Ling Deng $^\dagger$\
+Liang Xiang\*, Wenjie Jiang\*, Zehang Bao\*, Zixuan Song, Shibo Xu, Ke Wang, Jiachen Chen, Feitong Jin, Xuhao Zhu, Zitian Zhu, Fanhao Shen, Ning Wang, Chuanyu Zhang, Yaozu Wu, Yiren Zou, Jiarun Zhong, Zhengyi Cui, Aosai Zhang, Ziqi Tan, Tingting Li, Yu Gao, Jinfeng Deng, Xu Zhang, Hang Dong, Pengfei Zhang, __Si Jiang__, Weikang Li, Zhide Lu, Zheng-Zhi Sun, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo $^\dagger$, Fangli Liu, Zhe-Xuan Gong, Alexey V Gorshkov, Norman Y Yao, Thomas Iadecola, Francisco Machado, H Wang $^\dagger$, Dong-Ling Deng $^\dagger$\
 Nature Communications 15, 8963 (2024)
 
 [Adversarial Machine Learning Phases of Matter](https://link.springer.com/article/10.1007/s44214-023-00043-z)\
